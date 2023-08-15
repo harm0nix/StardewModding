@@ -1,0 +1,20 @@
+{
+    "Name": "Channelled Nail",
+    "Description": "A cleft weapon of Hallownest. The blade is exquisitely balanced.",
+    "Type": "sword",
+    "MinimumDamage": 50,
+    "MaximumDamage": 54,
+    "Knockback": 3,
+    "Speed": 2,
+    "Accuracy": 90,
+    "Defense": 4,
+    "MineDropVar": 60,
+    "MineDropMinimumLevel": 50,
+    "ExtraSwingArea": 1,
+    "CritChance": 0.3,
+    "CritMultiplier": 3,
+    "CanSell": true,
+    "PurchaseFrom": "Marlon",
+    "PurchasePrice": 9000,
+    "PurchaseRequirements": null
+}

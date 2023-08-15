@@ -1,0 +1,20 @@
+{
+    "Name": "Coiled Nail",
+    "Description": "A powerful weapon of Hallownest, refined beyond all others.",
+    "Type": "sword",
+    "MinimumDamage": 66,
+    "MaximumDamage": 70,
+    "Knockback": 4,
+    "Speed": 3,
+    "Accuracy": 100,
+    "Defense": 8,
+    "MineDropVar": 80,
+    "MineDropMinimumLevel": 70,
+    "ExtraSwingArea": 2,
+    "CritChance": 0.4,
+    "CritMultiplier": 4,
+    "CanSell": true,
+    "PurchaseFrom": "Marlon",
+    "PurchasePrice": 22000,
+    "PurchaseRequirements": null
+}
