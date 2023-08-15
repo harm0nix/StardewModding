@@ -1,0 +1,64 @@
+{
+    "RemovePacksFromVanilla":["Harmonix.HollowKnightModJA"],
+    "Shops": [
+        {
+            "ShopName": "SlyShop",
+            "StoreCurrency": "Money",
+            "CategoriesToSellHere": [-2, -12, -28, -96, -98],
+            "PortraitPath": "assets/sly_store.png",
+            "Quote": "Haüwf dtøõ'whaûpb d't gėo?",
+            "MaxNumItemsSoldInStore": 5,
+            "DefaultSellPriceMultiplier": 3,
+            "When": ["p Sly"],
+            "ClosedMessage": "We're closed right now. Get out and leave me alone with my Geo. -Sly",
+            "ItemStocks": [
+                {
+                    "ItemType": "Weapon",
+                    "ItemNames": ["Sharpened Nail"],
+                    "StockPrice": 250
+                },
+                {
+                    "ItemType": "Weapon",
+                    "ItemNames": ["Channelled Nail"],
+                    "StockPrice": 800,
+                    "StockItemCurrency": "Pale Ore",
+                    "StockCurrencyStack": 1
+                },
+                {
+                    "ItemType": "Weapon",
+                    "ItemNames": ["Coiled Nail"],
+                    "StockPrice": 2000,
+                    "StockItemCurrency": "Pale Ore",
+                    "StockCurrencyStack": 2
+                },
+                {
+                    "ItemType": "Weapon",
+                    "ItemNames": ["Pure Nail"],
+                    "StockPrice": 4000,
+                    "StockItemCurrency": "Pale Ore",
+                    "StockCurrencyStack": 3
+                }
+            ]
+        }
+    ],
+    "AnimalShops":
+    [
+        {
+            "ShopName": "CollectorShop",
+            "AnimalStock": [
+                "Grub",
+                "Vengefly",
+                "Baldur",
+                "Aspid"
+            ],
+            "ExcludeFromMarnies": [
+                "Grub",
+                "Vengefly",
+                "Baldur",
+                "Aspid"
+            ],
+            "When": ["p Collector"],
+            "ClosedMessage": "Me no here right now"
+        }
+    ]
+}
