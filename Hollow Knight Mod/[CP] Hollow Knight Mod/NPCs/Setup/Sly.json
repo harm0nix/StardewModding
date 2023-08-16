@@ -1,0 +1,84 @@
+{
+    "Changes": [
+        {
+            //Disposition
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Sly": "adult/neutral/neutral/neutral/male/non-datable/null/Other/fall 26//ADDTHIS/Sly"
+            }
+        },
+        {
+            //Gift Tastes + Dialogue
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Sly": "ADDTHIS/749,565,546/ADDTHIS/535,536,537,561/ADDTHIS/276,413,437,439,907,680,257/ADDTHIS/857,834,635,742,549,044,556/ADDTHIS/144/"
+            }
+        },
+        {
+            //Animations
+            "Action": "EditData",
+            "Target": "Data/animationdescriptions",
+            "Entries": {
+                "ADDTHIS": "ADDTHIS"
+            }
+        },
+        {
+            //Portraits
+            "Action": "Load",
+            "Target": "Portraits/Sly",
+            "FromFile": "assets/Portraits/Sly.png"
+        },
+        {
+            //Overworld Sprites
+            "Action": "Load",
+            "Target": "Characters/Sly",
+            "FromFile": "assets/overworldSprites/Sly.png"
+        },
+        {
+            //Schedule
+            "Action": "Load",
+            "Target": "Characters/schedules/Sly",
+            "FromFile": "NPCs/Schedules/Sly.png"
+        },
+        {
+            //Concessions
+            "Action": "EditData",
+            "Target": "Data/ConcessionTastes",
+            "Entries": {
+                "Sly": {
+                    "Name": "Sly",
+                    "LovedTags": [
+                        "Black Licorice",
+                        "Rock Candy"
+                    ],
+                    "LikedTags": [
+                        "Chocolate Popcorn",
+                        "Gourmet"
+                    ],
+                    "DislikedTags": [
+                        "Joja",
+                        "Fatty",
+                        "Hummus Snack Pack"
+                    ]
+                }
+            }
+        },
+        {
+            //Movies
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "Entries": {
+                "Sly": {
+                    "NPCName": "Sly",
+                    "Reactions": [
+                        {
+                            "ADDTHIS": "ADDTHIS"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
