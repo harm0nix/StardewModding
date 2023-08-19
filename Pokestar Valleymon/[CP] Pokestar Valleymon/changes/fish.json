@@ -6,14 +6,22 @@
             "Target": "Data/Fish",
             "Entries": {
                 "Harmonix.PokestarValleymonCP.Veluza": "Veluza/70/mixed/88/108/600 2600/null/both/0/4/.4/.1/5",
-                "Harmonix.PokestarValleymonCP.Magikarp": "Magikarp/30/smooth/1/12/600 1900/spring summer fall winter/both/683 .3/1/.65/.1/0"
+                "Harmonix.PokestarValleymonCP.Magikarp": "Magikarp/30/smooth/1/12/600 1900/spring summer fall winter/both/683 .3/1/.65/.1/0",
+                "Harmonix.PokestarValleymonCP.Dondozo": "Dondozo/50/sinker/442/502/1500 2600/fall winter/both/0/4/.4/.2/6",
+                "Harmonix.PokestarValleymonCP.CurlyTatsugiri": "Curly Tatsugiri/30/mixed/9/15/600 1600/spring summer/both/0/2/.5/.6/1",
+                "Harmonix.PokestarValleymonCP.DroopyTatsugiri": "Droopy Tatsugiri/30/sinker/9/15/1100 2100/summer fall/both/0/2/.5/.6/1",
+                "Harmonix.PokestarValleymonCP.StretchyTatsugiri": "Stretchy Tatsugiri/30/dart/9/15/1100 1600 2100 2600/fall winter/both/0/2/.5/.6/1",
+                "Harmonix.PokestarValleymonCP.CrsipyTatsugiri": "Crispy Tatsugiri/50/smooth/9/15/700 1500/spring/both/0/2/.4/.5/3",
+                "Harmonix.PokestarValleymonCP.SaltyTatsugiri": "Salty Tatsugiri/50/dart/9/15/1200 2000/fall/both/0/2/.4/.5/3",
+                "Harmonix.PokestarValleymonCP.ChimeraTatsugiri": "Chimera Tatsugiri/50/mixed/9/15/1150 1550 2150 2550/winter/both/0/2/.4/.5/3"
+                
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/Locations",
             "Entries": {
-                "Beach": "372 .9 718 .1 719 .3 723 .3/372 .9 394 .5 718 .1 719 .3 723 .3/372 .9 718 .1 719 .3 723 .3/372 .4 392 .8 718 .05 719 .2 723 .2/129 -1 131 -1 147 -1 148 -1 152 -1 708 -1 267 -1 Harmonix.PokestarValleymonCP.Magikarp -1/128 -1 130 -1 146 -1 149 -1 150 -1 152 -1 155 -1 708 -1 701 -1 267 -1 Harmonix.PokestarValleymonCP.Veluza -1 Harmonix.PokestarValleymonCP.Magikarp -1/129 -1 131 -1 148 -1 150 -1 152 -1 154 -1 155 -1 705 -1 701 -1 Harmonix.PokestarValleymonCP.Magikarp -1/708 -1 130 -1 131 -1 146 -1 147 -1 150 -1 151 -1 152 -1 154 -1 705 -1 Harmonix.PokestarValleymonCP.Magikarp -1/384 .08 589 .09 102 .15 390 .25 330 1"
+                "Beach": "372 .9 718 .1 719 .3 723 .3/372 .9 394 .5 718 .1 719 .3 723 .3/372 .9 718 .1 719 .3 723 .3/372 .4 392 .8 718 .05 719 .2 723 .2/129 -1 131 -1 147 -1 148 -1 152 -1 708 -1 267 -1 Harmonix.PokestarValleymonCP.Magikarp -1 Harmonix.PokestarValleymonCP.CurlyTatsugiri -1 Harmonix.PokestarValleymonCP.CrsipyTatsugiri -1/128 -1 130 -1 146 -1 149 -1 150 -1 152 -1 155 -1 708 -1 701 -1 267 -1 Harmonix.PokestarValleymonCP.Veluza -1 Harmonix.PokestarValleymonCP.Magikarp -1 Harmonix.PokestarValleymonCP.CurlyTatsugiri -1 Harmonix.PokestarValleymonCP.DroopyTatsugiri -1/129 -1 131 -1 148 -1 150 -1 152 -1 154 -1 155 -1 705 -1 701 -1 Harmonix.PokestarValleymonCP.Magikarp -1 Harmonix.PokestarValleymonCP.Dondozo -1 Harmonix.PokestarValleymonCP.DroopyTatsugiri -1 Harmonix.PokestarValleymonCP.StretchyTatsugiri -1 Harmonix.PokestarValleymonCP.SaltyTatsugiri -1/708 -1 130 -1 131 -1 146 -1 147 -1 150 -1 151 -1 152 -1 154 -1 705 -1 Harmonix.PokestarValleymonCP.Magikarp -1 Harmonix.PokestarValleymonCP.Dondozo -1 Harmonix.PokestarValleymonCP.StretchyTatsugiri -1 Harmonix.PokestarValleymonCP.ChimeraTatsugiri -1/384 .08 589 .09 102 .15 390 .25 330 1"
             }
         },
         {
@@ -82,6 +90,122 @@
                     "PopulationGates": {
                         "5": [
                             "74 1"
+                        ]
+                    }
+                },
+                {
+                    "RequiredTags": [
+                        "item_Dondozo",
+                        "fish_carnivorous"
+                    ],
+                    "SpawnTime": -1,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 1,
+                            "Chance": 1,
+                            "ItemID": "{{spacechase0.JsonAssets/ObjectId: Dondoroe}}",
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 2,
+                            "Chance": 0.9,
+                            "ItemID": "{{spacechase0.JsonAssets/ObjectId: Velushi}}",
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 3,
+                            "Chance": 0.8,
+                            "ItemID": 227,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 4,
+                            "Chance": 0.7,
+                            "ItemID": 265,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 5,
+                            "Chance": 0.6,
+                            "ItemID": 228,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 6,
+                            "Chance": 0.5,
+                            "ItemID": 386,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 5
+                        },
+                        {
+                            "RequiredPopulation": 7,
+                            "Chance": 0.4,
+                            "ItemID": 709,
+                            "MinQuantity": 5,
+                            "MaxQuantity": 20
+                        },
+                        {
+                            "RequiredPopulation": 8,
+                            "Chance": 0.3,
+                            "ItemID": 337,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 2
+                        },
+                        {
+                            "RequiredPopulation": 9,
+                            "Chance": 0.2,
+                            "ItemID": 803,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        },
+                        {
+                            "RequiredPopulation": 10,
+                            "Chance": 0.1,
+                            "ItemID": 434,
+                            "MinQuantity": 1,
+                            "MaxQuantity": 1
+                        }
+                    ],
+                    "PopulationGates": {
+                        "1": [
+                            "{{spacechase0.JsonAssets/ObjectId: Veluza Flesh}} 1"
+                        ],
+                        "2": [
+                            "{{spacechase0.JsonAssets/ObjectId: Curly Tatsugiri}} 1"
+                        ],
+                        "3": [
+                            "{{spacechase0.JsonAssets/ObjectId: Droopy Tatsugiri}} 1"
+                        ],
+                        "4": [
+                            "{{spacechase0.JsonAssets/ObjectId: Stretchy Tatsugiri}} 1"
+                        ],
+                        "5": [
+                            "{{spacechase0.JsonAssets/ObjectId: Veluza Flesh}} 10"
+                        ],
+                        "6": [
+                            "{{spacechase0.JsonAssets/ObjectId: Crispy Tatsugiri}} 1"
+                        ],
+                        "7": [
+                            "{{spacechase0.JsonAssets/ObjectId: Salty Tatsugiri}} 1"
+                        ],
+                        "8": [
+                            "{{spacechase0.JsonAssets/ObjectId: Chimera Tatsugiri}} 1"
+                        ],
+                        "9": [
+                            "{{spacechase0.JsonAssets/ObjectId: Veluza Flesh}} 25"
+                        ],
+                        "10": [
+                            "{{spacechase0.JsonAssets/ObjectId: Curly Tatsugiri}} 5",
+                            "{{spacechase0.JsonAssets/ObjectId: Droopy Tatsugiri}} 5",
+                            "{{spacechase0.JsonAssets/ObjectId: Stretchy Tatsugiri}} 5",
+                            "{{spacechase0.JsonAssets/ObjectId: Crispy Tatsugiri}} 3",
+                            "{{spacechase0.JsonAssets/ObjectId: Salty Tatsugiri}} 3",
+                            "{{spacechase0.JsonAssets/ObjectId: Chimera Tatsugiri}} 3"
                         ]
                     }
                 }
