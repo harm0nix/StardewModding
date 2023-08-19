@@ -3,7 +3,7 @@
     "Price": "300",
     "CanSell": true,
     "Description": "A large bottle of highly nutritious milk.",
-    "Category": "AnimalGoods",
+    "Category": "Milk",
     "Edibility": 44,
     "EdibleIsDrink": true,
     "EdibleBuffs": null,

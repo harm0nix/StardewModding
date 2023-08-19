@@ -1,0 +1,11 @@
+{
+    "Name": "Veluza Flesh",
+    "Price": "2000",
+    "CanSell": true,
+    "Description": "This discarded flesh has a mild but delicious flavor.",
+    "Category": "AnimalGoods",
+    "Edibility": 97,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Recipe": null
+}
