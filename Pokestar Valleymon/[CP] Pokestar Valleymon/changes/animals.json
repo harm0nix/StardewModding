@@ -6,8 +6,11 @@
             "Target": "Data/FarmAnimals",
             "Entries": {
                 "Miltank": "2/5/{{spacechase0.JsonAssets/ObjectId: Moomoo Milk}}/{{spacechase0.JsonAssets/ObjectId: Large Moomoo Milk}}/cow/0/0/0/0/0/0/0/0/1/false/Barn/32/32/32/32/15/5/Milk Pail/434/2000/Miltank/Barn",
+                "Shiny Miltank": "2/5/{{spacechase0.JsonAssets/ObjectId: Moomoo Milk}}/{{spacechase0.JsonAssets/ObjectId: Large Moomoo Milk}}/cow/0/0/0/0/0/0/0/0/1/false/Barn/32/32/32/32/15/5/Milk Pail/434/2000/Miltank/Barn",
                 "Dodrio": "10/10/{{spacechase0.JsonAssets/ObjectId: Doduo Egg}}/{{spacechase0.JsonAssets/ObjectId: Doduo Egg}}/Ostrich/0/0/0/0/0/0/0/0/0/false/Barn/32/32/32/32/15/5/null/434/20000/Dodrio/Barn",
-                "Blissey": "1/5/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/SpringBirds/0/0/0/0/0/0/0/0/1/true/Barn/32/32/32/32/15/1/null/434/6000/Blissey/Barn"
+                "Shiny Dodrio": "10/10/{{spacechase0.JsonAssets/ObjectId: Doduo Egg}}/{{spacechase0.JsonAssets/ObjectId: Doduo Egg}}/Ostrich/0/0/0/0/0/0/0/0/0/false/Barn/32/32/32/32/15/5/null/434/20000/Dodrio/Barn",
+                "Blissey": "1/5/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/SpringBirds/0/0/0/0/0/0/0/0/1/true/Barn/32/32/32/32/15/1/null/434/6000/Blissey/Barn",
+                "Shiny Blissey": "1/5/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/SpringBirds/0/0/0/0/0/0/0/0/1/true/Barn/32/32/32/32/15/1/null/434/6000/Blissey/Barn"
             }
         },
         {
@@ -18,7 +21,7 @@
         {
             "Action": "Load",
             "Target": "Animals/BabyMiltank",
-            "FromFile": "assets/BabyMiltank.png"
+            "FromFile": "assets/Miltank.png"
         },
         {
             "Action": "Load",
@@ -39,6 +42,36 @@
             "Action": "Load",
             "Target": "Animals/BabyBlissey",
             "FromFile": "assets/Chansey.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Animals/Shiny Miltank",
+            "FromFile": "assets/ShinyMiltank.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Animals/BabyShinyMiltank",
+            "FromFile": "assets/ShinyMiltank.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Animals/ShinyDodrio",
+            "FromFile": "assets/ShinyDodrio.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Animals/BabyShinyDodrio",
+            "FromFile": "assets/ShinyDoduo.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Animals/ShinyBlissey",
+            "FromFile": "assets/ShinyBlissey.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Animals/BabyShinyBlissey",
+            "FromFile": "assets/ShinyChansey.png"
         }
     ]
 }

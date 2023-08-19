@@ -2,8 +2,15 @@
     "Format": "1.29.0",
     "Changes": [
         {
-            "Action": "EditData",
+            "Action": "Include",
             "FromFile": ["changes/fish.json", "changes/animals.json"]
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Universal_Love": "74 446 797 373 279 800"
+            }
         }
     ]
 }
