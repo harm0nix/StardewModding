@@ -1,0 +1,14 @@
+{
+    "Format": "1.29.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/FarmAnimals",
+            "Entries": {
+                "Miltank": "2/5/{{spacechase0.JsonAssets/ObjectId: Moomoo Milk}}/{{spacechase0.JsonAssets/ObjectId: Large Moomoo Milk}}/cow/0/0/0/0/0/0/0/0/1/false/Barn/32/32/32/32/15/5/Milk Pail/434/2000/Miltank/Barn",
+                "Dodrio": "10/10/{{spacechase0.JsonAssets/ObjectId: Doduo Egg}}/{{spacechase0.JsonAssets/ObjectId: Doduo Egg}}/Ostrich/0/0/0/0/0/0/0/0/0/false/Barn/32/32/32/32/15/5/null/434/20000/Dodrio/Barn",
+                "Blissey": "1/5/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/{{spacechase0.JsonAssets/ObjectId: Blissey Egg}}/SpringBirds/0/0/0/0/0/0/0/0/1/true/Barn/32/32/32/32/15/1/null/434/6000/Blissey/Barn"
+            }
+        }
+    ]
+}

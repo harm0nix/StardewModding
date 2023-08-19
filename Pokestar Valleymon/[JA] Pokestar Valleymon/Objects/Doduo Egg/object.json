@@ -1,0 +1,11 @@
+{
+    "Name": "Doduo Egg",
+    "Price": "840",
+    "CanSell": true,
+    "Description": "This Doduo Egg and two others were laid by a Dodrio.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

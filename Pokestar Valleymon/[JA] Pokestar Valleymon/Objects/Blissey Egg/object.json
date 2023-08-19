@@ -1,0 +1,11 @@
+{
+    "Name": "Blissey Egg",
+    "Price": "750",
+    "CanSell": true,
+    "Description": "This egg is filled with happiness. Anyone who takes even one taste will become pleasant to everyone.",
+    "Category": "AnimalGoods",
+    "Edibility": 100,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

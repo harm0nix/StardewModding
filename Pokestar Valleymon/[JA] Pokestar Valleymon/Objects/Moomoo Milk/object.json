@@ -1,0 +1,11 @@
+{
+    "Name": "Moomoo Milk",
+    "Price": "241",
+    "CanSell": true,
+    "Description": "A bottle of highly nutritious milk.",
+    "Category": "AnimalGoods",
+    "Edibility": 34,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Recipe": null
+}
