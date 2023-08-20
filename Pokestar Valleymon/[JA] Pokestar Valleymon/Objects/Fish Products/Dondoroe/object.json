@@ -1,0 +1,11 @@
+{
+    "Name": "Dondoroe",
+    "Price": "1150",
+    "CanSell": true,
+    "Description": "Fresh Dondozo eggs. They are prized by the upper class.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

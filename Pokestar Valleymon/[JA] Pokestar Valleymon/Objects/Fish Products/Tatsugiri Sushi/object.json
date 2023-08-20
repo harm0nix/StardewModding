@@ -1,10 +1,10 @@
 {
-    "Name": "Deluxe Tatsugiri Sushi",
-    "Price": "3000",
+    "Name": "Tatsugiri Sushi",
+    "Price": "900",
     "CanSell": true,
-    "Description": "This mouthwateringly delicious sushi was made by a Tatsugiri.",
+    "Description": "This sushi was made by a Tatsugiri.",
     "Category": "Cooking",
-    "Edibility": 500,
+    "Edibility": 50,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
     "Recipe": {
@@ -13,7 +13,7 @@
         "Ingredients": [
             {
                 "Object": 434,
-                "Count": 777
+                "Count": 7
             }
         ]
     }
