@@ -2,7 +2,7 @@
 A repo for all my Stardew Valley mods
 
 Conceptual:
-- None
+- Elementals Mod: Would include a major lore expansion on the seven elementals and elemental wars, along with new areas, items, weapons, and more
 
 Pre-Alpha:
 - Hollow Knight Mod (Working Title): A mod that adds crossover content from Hollow Knight
