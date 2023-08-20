@@ -3,7 +3,7 @@
     "Price": "1750",
     "CanSell": true,
     "Description": "This delicious sushi was made by a Dondozo using Veluza flesh.",
-    "Category": "AnimalGoods",
+    "Category": "Cooking",
     "Edibility": 150,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
