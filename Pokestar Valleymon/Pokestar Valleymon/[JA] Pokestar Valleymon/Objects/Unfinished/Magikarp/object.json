@@ -1,0 +1,11 @@
+{
+    "Name": "Magikarp",
+    "Price": "129",
+    "CanSell": true,
+    "Description": "Magikarp is a pathetic excuse for a fish that is only capable of flopping and splashing. ",
+    "Category": "Fish",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

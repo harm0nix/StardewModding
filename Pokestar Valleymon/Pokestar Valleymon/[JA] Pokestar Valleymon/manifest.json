@@ -1,0 +1,11 @@
+{
+    "Name": "[JA] Pokestar Valleymon",
+    "Author": "Harmonix",
+    "Version": "1.0.0-beta",
+    "Description": "Work in progress",
+    "UniqueID": "Harmonix.PokestarValleymonJA",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

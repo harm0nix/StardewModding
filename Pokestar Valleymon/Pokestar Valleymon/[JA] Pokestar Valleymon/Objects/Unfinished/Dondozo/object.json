@@ -1,0 +1,11 @@
+{
+    "Name": "Dondozo",
+    "Price": "977",
+    "CanSell": true,
+    "Description": "They treat Tatsugiri like their boss and follow them loyally. Though powerful, Dondozoes are not very smart.",
+    "Category": "Fish",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

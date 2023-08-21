@@ -1,0 +1,11 @@
+{
+    "Name": "Veluza",
+    "Price": "976",
+    "CanSell": true,
+    "Description": "When a Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases.",
+    "Category": "Fish",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

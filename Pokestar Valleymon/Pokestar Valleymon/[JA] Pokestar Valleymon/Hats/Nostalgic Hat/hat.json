@@ -1,0 +1,9 @@
+{
+    "Name": "Nostalgic Hat",
+    "Description": "This hat is reminiscent of the place where it all began.",
+    "PurchasePrice": 1000,
+    "ShowHair": true,
+    "IgnoreHairstyleOffset": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "HatMouse"
+}

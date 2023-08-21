@@ -1,0 +1,9 @@
+{
+    "Name": "Adamant Hat",
+    "Description": "This hat is reminiscent of a place long ago and far away.",
+    "PurchasePrice": 4000,
+    "ShowHair": true,
+    "IgnoreHairstyleOffset": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "HatMouse"
+}
