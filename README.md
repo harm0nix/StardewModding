@@ -1,5 +1,5 @@
 # StardewModding
-A repo for all my Stardew Valley mods
+A repo for all my Stardew Valley mods.
 Feel free to submit issues, download and test these as long as you dont plagiarize or anything
 
 Conceptual:
