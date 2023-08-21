@@ -3,7 +3,7 @@
     "Changes": [
         {
             "Action": "Include",
-            "FromFile": ["changes/fish.json", "changes/animals.json", "changes/fishpond.json"]
+            "FromFile": "changes/fish.json, changes/animals.json, changes/fishpond.json"
         },
         {
             "Action": "EditData",

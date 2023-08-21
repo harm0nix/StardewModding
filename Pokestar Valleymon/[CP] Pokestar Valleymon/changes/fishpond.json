@@ -1,11 +1,10 @@
 {
-    "Format": "1.29.0",
     "Changes": [
         {
             "Action": "EditData",
             "Target": "Data/FishPondData",
-            "Entries": [
-                {
+            "Entries": {
+                "item_Veluza": {
                     "RequiredTags": [
                         "item_Veluza"
                     ],
@@ -36,7 +35,7 @@
                         ]
                     }
                 },
-                {
+                "item_Magikarp": {
                     "RequiredTags": [
                         "item_Magikarp"
                     ],
@@ -70,7 +69,7 @@
                         ]
                     }
                 },
-                {
+                "item_Dondozo,fish_carnivorous": {
                     "RequiredTags": [
                         "item_Dondozo",
                         "fish_carnivorous"
@@ -186,7 +185,7 @@
                         ]
                     }
                 },
-                {
+                "item_Curly_Tatsugiri": {
                     "RequiredTags": [
                         "item_Curly_Tatsugiri"
                     ],
@@ -209,7 +208,7 @@
                     ],
                     "PopulationGates": null
                 },
-                {
+                "item_Droopy_Tatsugiri": {
                     "RequiredTags": [
                         "item_Droopy_Tatsugiri"
                     ],
@@ -232,7 +231,7 @@
                     ],
                     "PopulationGates": null
                 },
-                {
+                "item_Stretchy_Tatsugiri": {
                     "RequiredTags": [
                         "item_Stretchy_Tatsugiri"
                     ],
@@ -255,7 +254,7 @@
                     ],
                     "PopulationGates": null
                 },
-                {
+                "item_Crispy_Tatsugiri": {
                     "RequiredTags": [
                         "item_Crispy_Tatsugiri"
                     ],
@@ -278,7 +277,7 @@
                     ],
                     "PopulationGates": null
                 },
-                {
+                "item_Salty_Tatsugiri": {
                     "RequiredTags": [
                         "item_Salty_Tatsugiri"
                     ],
@@ -301,7 +300,7 @@
                     ],
                     "PopulationGates": null
                 },
-                {
+                "item_Chimera_Tatsugiri": {
                     "RequiredTags": [
                         "item_Chimera_Tatsugiri"
                     ],
@@ -324,7 +323,7 @@
                     ],
                     "PopulationGates": null
                 }
-            ]
+            }
         }
     ]
 }
