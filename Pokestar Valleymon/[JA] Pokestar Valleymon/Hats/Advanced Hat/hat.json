@@ -1,0 +1,9 @@
+{
+    "Name": "Advanced Hat",
+    "Description": "This hat is reminiscent of a place far away across land and sea.",
+    "PurchasePrice": 3000,
+    "ShowHair": true,
+    "IgnoreHairstyleOffset": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "HatMouse"
+}

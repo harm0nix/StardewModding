@@ -1,0 +1,9 @@
+{
+    "Name": "Ultra Hat",
+    "Description": "This hat is reminiscent of a place where strange creatures infest the land.",
+    "PurchasePrice": 7000,
+    "ShowHair": true,
+    "IgnoreHairstyleOffset": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "HatMouse"
+}
