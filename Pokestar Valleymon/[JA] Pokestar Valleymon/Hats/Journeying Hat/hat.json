@@ -1,0 +1,9 @@
+{
+    "Name": "Journeying Hat",
+    "Description": "This hat is reminiscent of journeys all the world over.",
+    "PurchasePrice": 8000,
+    "ShowHair": true,
+    "IgnoreHairstyleOffset": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "HatMouse"
+}

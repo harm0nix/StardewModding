@@ -1,0 +1,11 @@
+{
+    "Name": "Moomoo Cheese",
+    "Price": "460",
+    "CanSell": true,
+    "Description": "Melted Moomoo cheese can be used in cooking for a rich flavor.",
+    "Category": "ArtisanGoods",
+    "Edibility": 112,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Recipe": null
+}

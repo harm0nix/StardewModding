@@ -1,0 +1,11 @@
+{
+    "Name": "Crispy Tatsugiri",
+    "Price": "1200",
+    "CanSell": true,
+    "Description": "They feign weakness to lure in prey, then order their partner to attack. This one has a crispy pattern.",
+    "Category": "Fish",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null
+}
