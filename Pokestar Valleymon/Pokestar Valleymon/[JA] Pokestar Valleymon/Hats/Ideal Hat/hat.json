@@ -1,9 +1,0 @@
-{
-    "Name": "Ideal Hat",
-    "Description": "This hat is reminiscent of a place where dragons run rampant.",
-    "PurchasePrice": 5000,
-    "ShowHair": true,
-    "IgnoreHairstyleOffset": false,
-    "CanPurchase": true,
-    "PurchaseFrom": "HatMouse"
-}

@@ -1,9 +1,0 @@
-{
-    "Name": "XYZ Hat",
-    "Description": "This hat is reminiscent of a place where a small flare set the world ablaze.",
-    "PurchasePrice": 6000,
-    "ShowHair": true,
-    "IgnoreHairstyleOffset": false,
-    "CanPurchase": true,
-    "PurchaseFrom": "HatMouse"
-}

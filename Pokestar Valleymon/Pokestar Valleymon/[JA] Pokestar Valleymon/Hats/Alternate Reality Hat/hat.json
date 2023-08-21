@@ -1,9 +1,0 @@
-{
-    "Name": "Alternate Reality Hat",
-    "Description": "This hat is reminiscent of a place far across dimensions.",
-    "PurchasePrice": 1000,
-    "ShowHair": true,
-    "IgnoreHairstyleOffset": false,
-    "CanPurchase": true,
-    "PurchaseFrom": "HatMouse"
-}
