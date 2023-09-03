@@ -9,7 +9,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Universal_Love": "74 446 797 373 279 800 {{spacechase0.JsonAssets/ObjectId: Deluxe Tatsugiri Sushi}}"
+                "Universal_Love": "74 446 797 373 279 {{spacechase0.JsonAssets/ObjectId: Deluxe Tatsugiri Sushi}}"
             }
         }
     ]

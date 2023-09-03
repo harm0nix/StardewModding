@@ -4,22 +4,22 @@
             "Action": "EditData",
             "Target": "Data/Fish",
             "Entries": {
-                "{{spacechase0.JsonAssets/ObjectId: Veluza}}": "Veluza/70/mixed/88/108/600 2600/null/both/0/4/.4/.1/5",
-                "{{spacechase0.JsonAssets/ObjectId: Magikarp}}": "Magikarp/30/smooth/1/12/600 1900/spring summer fall winter/both/683 .3/1/.65/.1/0",
-                "{{spacechase0.JsonAssets/ObjectId: Dondozo}}": "Dondozo/50/sinker/442/502/1500 2600/fall winter/both/0/4/.4/.2/6",
-                "{{spacechase0.JsonAssets/ObjectId: Curly Tatsugiri}}": "Curly Tatsugiri/30/mixed/9/15/600 1600/spring summer/both/0/2/.5/.6/1",
-                "{{spacechase0.JsonAssets/ObjectId: Droopy Tatsugiri}}": "Droopy Tatsugiri/30/sinker/9/15/1100 2100/summer fall/both/0/2/.5/.6/1",
-                "{{spacechase0.JsonAssets/ObjectId: Stretchy Tatsugiri}}": "Stretchy Tatsugiri/30/dart/9/15/1100 1600 2100 2600/fall winter/both/0/2/.5/.6/1",
-                "{{spacechase0.JsonAssets/ObjectId: Crispy Tatsugiri}}": "Crispy Tatsugiri/50/smooth/9/15/700 1500/spring/both/0/2/.4/.5/3",
-                "{{spacechase0.JsonAssets/ObjectId: Salty Tatsugiri}}": "Salty Tatsugiri/50/dart/9/15/1200 2000/fall/both/0/2/.4/.5/3",
-                "{{spacechase0.JsonAssets/ObjectId: Chimera Tatsugiri}}": "Chimera Tatsugiri/50/mixed/9/15/1150 1550 2150 2550/winter/both/0/2/.4/.5/3"
+                "{{spacechase0.JsonAssets/ObjectId:Veluza}}": "Veluza/70/mixed/88/108/600 2600/null/both/0/4/.4/.1/5",
+                "{{spacechase0.JsonAssets/ObjectId:Magikarp}}": "Magikarp/30/smooth/1/12/600 1900/spring summer fall winter/both/683 .3/1/.65/.1/0",
+                "{{spacechase0.JsonAssets/ObjectId:Dondozo}}": "Dondozo/50/sinker/442/502/1500 2600/fall winter/both/0/4/.4/.2/6",
+                "{{spacechase0.JsonAssets/ObjectId:Curly Tatsugiri}}": "Curly Tatsugiri/30/mixed/9/15/600 1600/spring summer/both/0/2/.5/.6/1",
+                "{{spacechase0.JsonAssets/ObjectId:Droopy Tatsugiri}}": "Droopy Tatsugiri/30/sinker/9/15/1100 2100/summer fall/both/0/2/.5/.6/1",
+                "{{spacechase0.JsonAssets/ObjectId:Stretchy Tatsugiri}}": "Stretchy Tatsugiri/30/dart/9/15/1100 1600 2100 2600/fall winter/both/0/2/.5/.6/1",
+                "{{spacechase0.JsonAssets/ObjectId:Crispy Tatsugiri}}": "Crispy Tatsugiri/50/smooth/9/15/700 1500/spring/both/0/2/.4/.5/3",
+                "{{spacechase0.JsonAssets/ObjectId:Salty Tatsugiri}}": "Salty Tatsugiri/50/dart/9/15/1200 2000/fall/both/0/2/.4/.5/3",
+                "{{spacechase0.JsonAssets/ObjectId:Chimera Tatsugiri}}": "Chimera Tatsugiri/50/mixed/9/15/1150 1550 2150 2550/winter/both/0/2/.4/.5/3"
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/Locations",
             "Entries": {
-                "Beach": "372 .9 718 .1 719 .3 723 .3/372 .9 394 .5 718 .1 719 .3 723 .3/372 .9 718 .1 719 .3 723 .3/372 .4 392 .8 718 .05 719 .2 723 .2/129 -1 131 -1 147 -1 148 -1 152 -1 708 -1 267 -1 {{spacechase0.JsonAssets/ObjectId: Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId: Curly Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId: Crispy Tatsugiri}} -1/128 -1 130 -1 146 -1 149 -1 150 -1 152 -1 155 -1 708 -1 701 -1 267 -1 {{spacechase0.JsonAssets/ObjectId: Veluza}} -1 {{spacechase0.JsonAssets/ObjectId: Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId: Curly Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId: Droopy Tatsugiri}} -1/129 -1 131 -1 148 -1 150 -1 152 -1 154 -1 155 -1 705 -1 701 -1 {{spacechase0.JsonAssets/ObjectId: Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId: Dondozo}} -1 {{spacechase0.JsonAssets/ObjectId: Droopy Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId: Stretchy Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId: Salty Tatsugiri}} -1/708 -1 130 -1 131 -1 146 -1 147 -1 150 -1 151 -1 152 -1 154 -1 705 -1 {{spacechase0.JsonAssets/ObjectId: Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId: Dondozo}} -1 {{spacechase0.JsonAssets/ObjectId: Stretchy Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId: Chimera Tatsugiri}} -1/384 .08 589 .09 102 .15 390 .25 330 1"
+                "Beach": "372 .9 718 .1 719 .3 723 .3/372 .9 394 .5 718 .1 719 .3 723 .3/372 .9 718 .1 719 .3 723 .3/372 .4 392 .8 718 .05 719 .2 723 .2/129 -1 131 -1 147 -1 148 -1 152 -1 708 -1 267 -1 {{spacechase0.JsonAssets/ObjectId:Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId:Curly Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId:Crispy Tatsugiri}} -1/128 -1 130 -1 146 -1 149 -1 150 -1 152 -1 155 -1 708 -1 701 -1 267 -1 {{spacechase0.JsonAssets/ObjectId:Veluza}} -1 {{spacechase0.JsonAssets/ObjectId:Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId:Curly Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId:Droopy Tatsugiri}} -1/129 -1 131 -1 148 -1 150 -1 152 -1 154 -1 155 -1 705 -1 701 -1 {{spacechase0.JsonAssets/ObjectId:Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId:Dondozo}} -1 {{spacechase0.JsonAssets/ObjectId:Droopy Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId:Stretchy Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId:Salty Tatsugiri}} -1/708 -1 130 -1 131 -1 146 -1 147 -1 150 -1 151 -1 152 -1 154 -1 705 -1 {{spacechase0.JsonAssets/ObjectId:Magikarp}} -1 {{spacechase0.JsonAssets/ObjectId:Dondozo}} -1 {{spacechase0.JsonAssets/ObjectId:Stretchy Tatsugiri}} -1 {{spacechase0.JsonAssets/ObjectId:Chimera Tatsugiri}} -1/384 .08 589 .09 102 .15 390 .25 330 1"
             }
         }
     ]

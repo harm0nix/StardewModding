@@ -10,7 +10,8 @@
     },
     "Dependencies": [
         {
-            "UniqueID": "spacechase0.JsonAssets"
+            "UniqueID": "spacechase0.JsonAssets",
+            "IsRequired": true
         }
     ]
 }
